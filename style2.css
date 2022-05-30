@@ -1,0 +1,10 @@
+.swiper2 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+.hidden {
+    display: none;
+}
